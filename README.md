@@ -58,7 +58,7 @@ Set up dependencies for Selenium WebDriver and Apache POI
 
 Clone this repository:
 
-git clone https://github.com/your-username/job-extractor-bot.git
+git clone https://github.com/kunaal7788/JobExtractorBot.git
 
 Navigate to the project directory:
 
